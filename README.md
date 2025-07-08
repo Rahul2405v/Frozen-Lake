@@ -36,18 +36,7 @@ Frozen-Lake/
    cd Frozen-Lake
    ```
 2. Install dependencies:
-3. Run Q-Learning:
-
-   ```bash
-   python q_learning.py
-   ```
-
-4. Run Policy-Based:
-
-   ```bash
-   python policy_gradient.py
-   ```
-
+3. Run Using either Collab/Jupyter
 ## ✅ Output
 
 * Learns optimal actions to reach the goal.
